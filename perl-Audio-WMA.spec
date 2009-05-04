@@ -8,13 +8,13 @@
 Summary:	Audio::WMA - Perl extension for reading WMA/ASF Metadata
 Summary(pl.UTF-8):	Audio::WMA - perlowe rozszerzenie do odczytu metadanych WMA/ASF
 Name:		perl-Audio-WMA
-Version:	1.1
+Version:	1.3
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Audio/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	b7f9e6c21b9d6f74b46b9a579a8c12dc
+# Source0-md5:	d73594ef7904e919237423817593bb2d
 URL:		http://search.cpan.org/dist/Audio-WMA/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
